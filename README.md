@@ -1,6 +1,6 @@
 # cpdirall
 
-https://github.com/zakarynichols/cpdirall/actions/workflows/ci.yml/badge.svg?branch=master
+![Workflow](https://github.com/zakarynichols/cpdirall/actions/workflows/ci.yml/badge.svg?branch=master)
 
 Create a copy of all source folders and files to destination. It is called recursively and will respect nested folder structures.
 
